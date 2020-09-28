@@ -54,8 +54,8 @@ class Projects extends Component {
                 Book Search is a webapp that displays the top 10 New York Times best sellers and are able to search for other books by the author or look for similar book titles 
                 </CardText>
                 <CardActions border>
-                  <Button colored href="https://github.com/adsana/Work_Day_Scheduler">GitHub</Button>
-                  <Button colored href="https://adsana.github.io/Work_Day_Scheduler/">Live Demo</Button>
+                  <Button colored href="https://github.com/adsana/book_search">GitHub</Button>
+                  <Button colored href="https://adsana.github.io/book_search/">Live Demo</Button>
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
                   <IconButton name="share" />
