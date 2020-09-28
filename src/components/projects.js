@@ -137,7 +137,7 @@ class Projects extends Component {
                 </CardText>
                 <CardActions border>
                   <Button colored href="https://github.com/adsana/online-offline_budget_tracker">GitHub</Button>
-                  <Button colored href="https://online-offline-budget-tracker2.herokuapp.com'\">Live Demo</Button>
+                  <Button colored href="https://online-offline-budget-tracker2.herokuapp.com">Live Demo</Button>
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
                   <IconButton name="share" />
@@ -153,7 +153,7 @@ class Projects extends Component {
                 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.bleepstatic.com/images/news/u/986406/Logos/MySQL-Logo.jpg) center / cover'}} >Burger App</CardTitle>
                 <CardText>
-                The Burger App is a playful shows use of the MySQL database recording burgers to be bought and devoured
+                The Burger App is a playful app shows use of the MySQL database recording burgers to be bought and devoured
                 </CardText>
                 <CardActions border>
                   <Button colored href="https://github.com/adsana/Burger-App">GitHub</Button>
