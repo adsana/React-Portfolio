@@ -6,10 +6,9 @@ import { Link } from 'react-router-dom'
 
 function App() {
   return (
-
-<div className="demo-big-content">
+      <div className="demo-big-content">
     <Layout>
-        <Header title="Adsana Sayasith" scroll>
+        <Header className="header-color" title="Adsana Sayasith" scroll>
             <Navigation>
                 <Link to="/aboutme">About Me</Link>
                 <Link to="/projects">Projects</Link>
@@ -17,7 +16,7 @@ function App() {
                 <Link to="/contact">Contact</Link>
             </Navigation>
         </Header>
-        <Drawer title="Adsana Sayasith ">
+        <Drawer title="Adsana Sayasith">
             <Navigation>
                 <Link to="/aboutme">About Me</Link>
                 <Link to="/projects">Projects</Link>
