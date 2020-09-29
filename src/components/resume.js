@@ -14,7 +14,7 @@ class Resume extends Component {
             <div style={{textAlign: 'center'}}>
               <img
                 src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/119003235_10220102241759681_4646740287047526961_o.jpg?_nc_cat=111&_nc_sid=84a396&_nc_ohc=gnsby_rMTH4AX-9qUq8&_nc_ht=scontent-lga3-1.xx&oh=87f1211d38c2432476ea05273ed97c1a&oe=5F990B9A"
-                alt="Me"
+                alt="me"
                 style={{height: '200px'}}
                  />
             </div>
@@ -57,7 +57,7 @@ class Resume extends Component {
 
             <Experience
               startYear={2017}
-              endYear={Present}
+              endYear={2020}
               jobName="Quality Assurance Specialist"
               jobDescription="Approve parts for first production (PPAP) and create quality inspection plans"
               />
