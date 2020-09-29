@@ -16,7 +16,7 @@ function App() {
                 <Link to="/contact">Contact</Link>
             </Navigation>
         </Header>
-        <Drawer className="header-color" title={<Link style={{textDecoration: 'none', color: 'black'}} to="/">Adsana Sayasith</Link>} scroll>
+        <Drawer title={<Link style={{textDecoration: 'none', color: 'black'}} to="/">Adsana Sayasith</Link>}>
             <Navigation>
                 <Link to="/aboutme">About Me</Link>
                 <Link to="/projects">Projects</Link>
